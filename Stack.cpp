@@ -64,5 +64,6 @@ int main() {
 
     //As the stack is empty , further popping will show an underflow condition.
     pop();
+    pop();
 
 }
